@@ -19,7 +19,10 @@ A lightweight, fully client-side **Learning Management System** for educational 
 
 ## 🚀 Live Demo
 
-
+ 
+> Deployed via Netlify:  
+> **https://educenter-lms.netlify.app**
+ 
 ---
 
 ## 🔑 Default Login
