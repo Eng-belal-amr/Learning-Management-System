@@ -19,8 +19,6 @@ A lightweight, fully client-side **Learning Management System** for educational 
 
 ## 🚀 Live Demo
 
-> Deployed via GitHub Pages:  
-> **https://YOUR-USERNAME.github.io/educenter-lms/**
 
 ---
 
